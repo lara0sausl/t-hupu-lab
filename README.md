@@ -1,2 +1,14 @@
 # t-hupu-lab
-HTML page archive and documentation
+
+公开页面文件归档
+
+本仓库承载生成后的页面文件，便于跟踪每次提交内容。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 访问说明
+
+如果启用了 GitHub Pages，页面可通过对应 Pages 地址访问。
